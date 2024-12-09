@@ -1,1 +1,1 @@
-# Manual_Assessment
+This assessment includes Test Scenario, Test Case, and Responsive Testing documents of Camera and Status functionality of WhatsApp for mobile devices and web-based devices. It also includes Defect Report on any defects found for other functionalities i.e. group chat, video calls, audio calls etc
